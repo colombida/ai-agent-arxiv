@@ -1,0 +1,5 @@
+pydantic-ai>=0.1.0
+sqlalchemy>=2.0
+arxiv>=1.4
+python-dotenv>=1.0
+pydantic-settings>=2.0
